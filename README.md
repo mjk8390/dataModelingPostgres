@@ -20,7 +20,7 @@ The purpose of the database is to optimize queries on song play analysis based o
 
 ### Database schema
 A star schema is implemented in the database as the following:
-![SongPlayAnalysis] (SongPlayAnalysis.png)
+![SongPlayAnalysis] (SongPlayAnalysis.png?raw=true)
 
 #### Fact Table
 1. **songplays** - records in log data associated with song plays i.e. records with page NextSong
